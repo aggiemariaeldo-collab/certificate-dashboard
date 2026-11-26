@@ -103,37 +103,7 @@ tab_over, tab_students, tab_verify = st.tabs(
     ["📈 Overview", "👩‍🎓 Students", "✅ Verification"])
 
 # =====================================================================
-# 4. ADD CERTIFICATE  (written first so the new row is saved BEFORE the data is loaded)
-# =====================================================================
-with tab_add:
-    st.subheader("Add a new certificate")
-    with st.form("add_form", clear_on_submit=True):
-        student_id = st.text_input("Register number")
-        student_name = st.text_input("Student name")
-        department = st.selectbox("Department", DEPARTMENTS)
-        title = st.text_input("Certificate title")
-        category = st.selectbox("Category", CATEGORIES)
-        level = st.selectbox("Level", LEVELS)
-        position = st.selectbox("Position", POSITIONS)
-        issue_date = st.date_input("Issue date", value=date.today())
-        save = st.form_submit_button("Save certificate")
-
-    if save:
-        if student_id == "" or student_name == "" or title == "":
-            st.error("Register number, name and title are required.")
-        else:
-            points = points_for(level, position)
-            new_row = pd.DataFrame([[student_id, student_name, department, title, category, level,
-                                     position, str(issue_date), "", "Pending", points, ""]],
-                                   columns=COLUMNS)
-            new_row.to_csv(DATA_FILE, mode="a", header=False, index=False)   # append to the CSV
-            st.success(f"Saved! {student_name} earned {points} points (status: Pending).")
-
-    st.caption("Points = level points + position bonus. "
-               "Level: " + str(LEVEL_POINTS) + "  Bonus: " + str(POSITION_BONUS))
-
-# =====================================================================
-# 5. LOAD DATA + FILTERS  (sidebar)
+# 4. LOAD DATA + FILTERS  (sidebar)
 # =====================================================================
 df = pd.read_csv(DATA_FILE, dtype={"student_id": str})
 df["issue_date"] = pd.to_datetime(df["issue_date"])
@@ -186,7 +156,7 @@ def percent_change(now, before):
 
 
 # =====================================================================
-# 6. OVERVIEW PAGE
+# 5. OVERVIEW PAGE
 # =====================================================================
 with tab_over:
     k1, k2, k3, k4 = st.columns(4)
@@ -250,7 +220,7 @@ with tab_over:
     st.dataframe(top10.sort_values("Points", ascending=False).head(10))
 
 # =====================================================================
-# 7. STUDENTS PAGE
+# 6. STUDENTS PAGE
 # =====================================================================
 with tab_students:
     left, right = st.columns(2)
@@ -293,7 +263,7 @@ with tab_students:
     st.dataframe(students.sort_values("Points", ascending=False), hide_index=True)
 
 # =====================================================================
-# 8. VERIFICATION PAGE
+# 7. VERIFICATION PAGE
 # =====================================================================
 with tab_verify:
     submitted = len(cur_any)
