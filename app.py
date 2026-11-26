@@ -99,8 +99,8 @@ st.caption("🟢 Live · updated " + datetime.now().strftime("%H:%M:%S"))
 period = st.radio("Time period", list(PERIODS), horizontal=True)
 days = PERIODS[period]
 
-tab_over, tab_students, tab_verify, tab_add = st.tabs(
-    ["📈 Overview", "👩‍🎓 Students", "✅ Verification", "➕ Add certificate"])
+tab_over, tab_students, tab_verify = st.tabs(
+    ["📈 Overview", "👩‍🎓 Students", "✅ Verification"])
 
 # =====================================================================
 # 4. ADD CERTIFICATE  (written first so the new row is saved BEFORE the data is loaded)
