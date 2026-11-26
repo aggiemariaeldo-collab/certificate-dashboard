@@ -1,0 +1,514 @@
+student_id,student_name,department,title,category,level,position,issue_date,expiry_date,status,points,review_days
+2541000,Aarav Sharma,BCA,Python Course,Sports,College,Participant,2026-08-22,,Verified,5,20
+2541000,Aarav Sharma,BCA,Coding Contest,Workshop,College,Participant,2026-08-07,,Verified,5,4
+2541000,Aarav Sharma,BCA,Python Course,Hackathon,International,Runner-up,2026-07-05,,Verified,45,9
+2541000,Aarav Sharma,BCA,Research Paper,Sports,College,Participant,2026-07-07,,Verified,5,11
+2541000,Aarav Sharma,BCA,SQL Course,Competition,International,Participant,2026-01-15,,Verified,40,7
+2541001,Ananya Nair,B.Com,Python Course,Workshop,State,Participant,2026-07-09,,Verified,15,20
+2541001,Ananya Nair,B.Com,Cricket Tournament,Workshop,National,Participant,2025-05-31,,Verified,25,12
+2541001,Ananya Nair,B.Com,AI Workshop,Cultural,State,Runner-up,2026-10-11,,Verified,20,4
+2541001,Ananya Nair,B.Com,SQL Course,Cultural,State,Winner,2026-07-02,,Rejected,25,4
+2541001,Ananya Nair,B.Com,SQL Course,Sports,University,Runner-up,2026-07-24,,Verified,15,3
+2541001,Ananya Nair,B.Com,Cricket Tournament,Publication,State,Participant,2025-12-03,,Rejected,15,17
+2541001,Ananya Nair,B.Com,AI Workshop,Hackathon,College,Runner-up,2025-12-05,,Verified,10,3
+2541001,Ananya Nair,B.Com,Cricket Tournament,Cultural,State,Winner,2025-12-19,,Verified,25,2
+2541001,Ananya Nair,B.Com,Coding Contest,Publication,University,Participant,2026-07-30,,Verified,10,3
+2541001,Ananya Nair,B.Com,Cricket Tournament,Internship,University,Participant,2026-03-18,,Verified,10,14
+2541001,Ananya Nair,B.Com,Research Paper,Hackathon,University,Runner-up,2026-02-18,,Verified,15,6
+2541001,Ananya Nair,B.Com,Hackathon Finalist,Internship,National,Participant,2025-12-12,,Verified,25,9
+2541002,Rohan Reddy,MCA,Hackathon Finalist,Competition,University,Winner,2026-11-23,,Verified,20,20
+2541002,Rohan Reddy,MCA,Data Analyst Internship,Internship,State,Participant,2026-10-20,,Verified,15,19
+2541002,Rohan Reddy,MCA,Cricket Tournament,Publication,University,Participant,2025-06-17,,Rejected,10,3
+2541002,Rohan Reddy,MCA,Python Course,Sports,National,Runner-up,2026-10-04,,Verified,30,14
+2541002,Rohan Reddy,MCA,Data Analyst Internship,Workshop,College,Participant,2026-08-06,,Verified,5,5
+2541003,Sneha Iyer,B.Com,Python Course,Hackathon,College,Winner,2026-07-12,,Verified,15,13
+2541003,Sneha Iyer,B.Com,Data Analyst Internship,Hackathon,University,Winner,2026-09-11,,Verified,20,13
+2541003,Sneha Iyer,B.Com,AI Workshop,Cultural,College,Participant,2026-04-02,,Verified,5,17
+2541004,Karthik Menon,MCA,Python Course,Hackathon,State,Winner,2026-03-26,,Verified,25,18
+2541004,Karthik Menon,MCA,Dance Competition,Workshop,International,Participant,2026-09-12,,Verified,40,2
+2541004,Karthik Menon,MCA,Hackathon Finalist,Internship,College,Participant,2026-03-04,,Verified,5,13
+2541004,Karthik Menon,MCA,Coding Contest,Publication,University,Participant,2025-05-21,,Verified,10,12
+2541004,Karthik Menon,MCA,Cricket Tournament,Workshop,University,Participant,2026-08-02,,Verified,10,18
+2541005,Meera Das,BCA,Data Analyst Internship,Course Completion,College,Participant,2026-03-30,,Verified,5,8
+2541005,Meera Das,BCA,Cricket Tournament,Cultural,State,Runner-up,2026-10-01,,Verified,20,9
+2541005,Meera Das,BCA,Cricket Tournament,Workshop,State,Participant,2026-07-26,,Rejected,15,2
+2541005,Meera Das,BCA,Cricket Tournament,Publication,College,Participant,2026-07-27,,Verified,5,8
+2541005,Meera Das,BCA,Research Paper,Competition,National,Winner,2026-10-13,,Verified,35,16
+2541005,Meera Das,BCA,Cricket Tournament,Hackathon,University,Participant,2026-11-19,,Verified,10,20
+2541005,Meera Das,BCA,Dance Competition,Competition,International,Winner,2025-12-25,,Verified,50,6
+2541005,Meera Das,BCA,Hackathon Finalist,Competition,College,Participant,2025-01-30,,Verified,5,18
+2541005,Meera Das,BCA,Dance Competition,Sports,University,Participant,2026-09-23,,Verified,10,11
+2541005,Meera Das,BCA,Hackathon Finalist,Workshop,International,Participant,2026-07-17,,Verified,40,15
+2541005,Meera Das,BCA,Dance Competition,Course Completion,State,Participant,2025-12-22,2028-01-30,Rejected,15,18
+2541005,Meera Das,BCA,Hackathon Finalist,Competition,International,Participant,2025-06-22,,Verified,40,16
+2541005,Meera Das,BCA,Data Analyst Internship,Course Completion,University,Participant,2026-10-21,,Verified,10,5
+2541005,Meera Das,BCA,Python Course,Cultural,College,Winner,2026-09-24,,Verified,15,10
+2541006,Vikram Gupta,MSc Data Science,Dance Competition,Cultural,International,Participant,2026-08-05,,Verified,40,18
+2541006,Vikram Gupta,MSc Data Science,Dance Competition,Workshop,State,Participant,2026-03-11,,Verified,15,17
+2541006,Vikram Gupta,MSc Data Science,Hackathon Finalist,Workshop,International,Participant,2026-02-13,,Verified,40,16
+2541006,Vikram Gupta,MSc Data Science,Research Paper,Sports,College,Runner-up,2026-06-18,,Verified,10,9
+2541007,Divya Thomas,MCA,AI Workshop,Internship,College,Participant,2026-06-15,,Verified,5,6
+2541007,Divya Thomas,MCA,Hackathon Finalist,Competition,National,Participant,2026-08-22,,Verified,25,17
+2541007,Divya Thomas,MCA,Data Analyst Internship,Workshop,University,Participant,2025-09-11,,Verified,10,14
+2541007,Divya Thomas,MCA,Data Analyst Internship,Sports,University,Runner-up,2026-10-10,,Verified,15,2
+2541007,Divya Thomas,MCA,AI Workshop,Cultural,National,Winner,2026-08-20,,Verified,35,18
+2541007,Divya Thomas,MCA,Python Course,Hackathon,College,Participant,2026-11-05,,Verified,5,10
+2541008,Arjun Kumar,MSc Data Science,Hackathon Finalist,Internship,University,Participant,2025-12-15,,Verified,10,14
+2541008,Arjun Kumar,MSc Data Science,SQL Course,Cultural,State,Participant,2026-10-28,,Verified,15,15
+2541008,Arjun Kumar,MSc Data Science,Coding Contest,Internship,College,Participant,2026-08-28,,Verified,5,4
+2541008,Arjun Kumar,MSc Data Science,Research Paper,Hackathon,State,Participant,2026-11-21,,Verified,15,19
+2541008,Arjun Kumar,MSc Data Science,Coding Contest,Internship,International,Participant,2026-11-15,,Pending,40,
+2541009,Priya Joseph,MCA,Dance Competition,Internship,College,Participant,2026-10-06,,Verified,5,11
+2541009,Priya Joseph,MCA,Data Analyst Internship,Workshop,State,Participant,2026-03-15,,Verified,15,10
+2541009,Priya Joseph,MCA,Coding Contest,Course Completion,State,Participant,2026-11-23,,Verified,15,18
+2541009,Priya Joseph,MCA,Dance Competition,Cultural,University,Runner-up,2026-06-11,,Verified,15,17
+2541009,Priya Joseph,MCA,Coding Contest,Sports,International,Runner-up,2026-04-20,,Verified,45,12
+2541010,Nikhil Rao,MSc Data Science,AI Workshop,Competition,National,Runner-up,2026-10-24,,Verified,30,4
+2541010,Nikhil Rao,MSc Data Science,AI Workshop,Sports,University,Participant,2026-06-09,,Verified,10,18
+2541010,Nikhil Rao,MSc Data Science,AI Workshop,Workshop,State,Participant,2026-08-01,,Verified,15,7
+2541010,Nikhil Rao,MSc Data Science,Coding Contest,Cultural,College,Runner-up,2026-06-11,,Verified,10,12
+2541010,Nikhil Rao,MSc Data Science,Cricket Tournament,Course Completion,State,Participant,2026-08-27,2027-08-04,Verified,15,2
+2541010,Nikhil Rao,MSc Data Science,Python Course,Internship,International,Participant,2026-05-05,,Verified,40,18
+2541010,Nikhil Rao,MSc Data Science,Research Paper,Hackathon,State,Participant,2026-08-16,,Rejected,15,3
+2541010,Nikhil Rao,MSc Data Science,Dance Competition,Course Completion,State,Participant,2026-01-08,,Verified,15,4
+2541010,Nikhil Rao,MSc Data Science,Hackathon Finalist,Competition,International,Runner-up,2026-03-18,,Verified,45,11
+2541010,Nikhil Rao,MSc Data Science,Dance Competition,Course Completion,International,Participant,2025-09-13,,Verified,40,6
+2541010,Nikhil Rao,MSc Data Science,Data Analyst Internship,Course Completion,International,Participant,2024-12-27,2025-12-30,Verified,40,4
+2541010,Nikhil Rao,MSc Data Science,Coding Contest,Hackathon,National,Runner-up,2026-10-06,,Verified,30,19
+2541010,Nikhil Rao,MSc Data Science,Dance Competition,Cultural,State,Participant,2026-10-22,,Pending,15,
+2541010,Nikhil Rao,MSc Data Science,AI Workshop,Hackathon,International,Participant,2025-07-29,,Verified,40,4
+2541011,Aditi Patel,MBA,Research Paper,Workshop,University,Participant,2025-01-30,,Verified,10,17
+2541011,Aditi Patel,MBA,SQL Course,Hackathon,National,Winner,2026-11-03,,Rejected,35,8
+2541011,Aditi Patel,MBA,Hackathon Finalist,Competition,State,Runner-up,2024-12-17,,Verified,20,20
+2541011,Aditi Patel,MBA,Cricket Tournament,Course Completion,National,Participant,2026-07-25,,Verified,25,5
+2541011,Aditi Patel,MBA,SQL Course,Internship,International,Participant,2026-04-03,,Verified,40,16
+2541011,Aditi Patel,MBA,Cricket Tournament,Workshop,State,Participant,2026-07-28,,Verified,15,11
+2541011,Aditi Patel,MBA,SQL Course,Hackathon,International,Runner-up,2026-05-12,,Verified,45,8
+2541011,Aditi Patel,MBA,Dance Competition,Hackathon,University,Winner,2026-03-03,,Verified,20,6
+2541011,Aditi Patel,MBA,Cricket Tournament,Internship,College,Participant,2025-11-18,,Verified,5,17
+2541011,Aditi Patel,MBA,AI Workshop,Sports,College,Participant,2026-07-24,,Verified,5,14
+2541011,Aditi Patel,MBA,Python Course,Competition,National,Runner-up,2026-06-18,,Verified,30,12
+2541011,Aditi Patel,MBA,AI Workshop,Publication,State,Participant,2026-09-26,,Verified,15,2
+2541011,Aditi Patel,MBA,SQL Course,Internship,State,Participant,2026-08-18,,Verified,15,20
+2541011,Aditi Patel,MBA,Python Course,Publication,National,Participant,2026-11-02,,Verified,25,5
+2541012,Rahul Singh,MSc Data Science,Data Analyst Internship,Internship,University,Participant,2026-09-19,,Verified,10,18
+2541012,Rahul Singh,MSc Data Science,Dance Competition,Workshop,State,Participant,2026-11-12,,Verified,15,19
+2541012,Rahul Singh,MSc Data Science,AI Workshop,Workshop,College,Participant,2026-08-13,,Verified,5,6
+2541012,Rahul Singh,MSc Data Science,Data Analyst Internship,Cultural,College,Winner,2026-10-14,,Verified,15,15
+2541012,Rahul Singh,MSc Data Science,Coding Contest,Internship,State,Participant,2025-12-27,,Verified,15,14
+2541012,Rahul Singh,MSc Data Science,Hackathon Finalist,Internship,National,Participant,2025-01-11,,Verified,25,5
+2541012,Rahul Singh,MSc Data Science,Cricket Tournament,Competition,College,Participant,2025-07-05,,Verified,5,9
+2541012,Rahul Singh,MSc Data Science,Coding Contest,Publication,National,Participant,2026-09-16,,Verified,25,8
+2541012,Rahul Singh,MSc Data Science,Data Analyst Internship,Hackathon,University,Runner-up,2026-08-25,,Verified,15,9
+2541012,Rahul Singh,MSc Data Science,Research Paper,Internship,International,Participant,2026-11-21,,Verified,40,14
+2541012,Rahul Singh,MSc Data Science,AI Workshop,Workshop,National,Participant,2026-06-06,,Verified,25,17
+2541012,Rahul Singh,MSc Data Science,SQL Course,Publication,University,Participant,2025-06-29,,Verified,10,8
+2541012,Rahul Singh,MSc Data Science,AI Workshop,Internship,University,Participant,2026-05-06,,Verified,10,15
+2541013,Kavya Mathew,MSc Data Science,Python Course,Competition,College,Runner-up,2025-07-30,,Rejected,10,17
+2541013,Kavya Mathew,MSc Data Science,Coding Contest,Hackathon,National,Winner,2026-04-11,,Verified,35,5
+2541013,Kavya Mathew,MSc Data Science,Dance Competition,Competition,University,Winner,2026-08-07,,Verified,20,4
+2541014,Siddharth Pillai,MSc Data Science,AI Workshop,Course Completion,University,Participant,2026-07-04,,Verified,10,11
+2541014,Siddharth Pillai,MSc Data Science,Coding Contest,Sports,College,Participant,2026-09-11,,Verified,5,20
+2541014,Siddharth Pillai,MSc Data Science,AI Workshop,Sports,State,Participant,2026-11-25,,Verified,15,19
+2541015,Ishita Sharma,BBA,Coding Contest,Publication,University,Participant,2026-03-02,,Verified,10,19
+2541015,Ishita Sharma,BBA,Research Paper,Course Completion,National,Participant,2025-01-30,2026-08-08,Verified,25,3
+2541015,Ishita Sharma,BBA,Cricket Tournament,Hackathon,State,Participant,2025-09-18,,Verified,15,9
+2541015,Ishita Sharma,BBA,AI Workshop,Course Completion,State,Participant,2025-09-22,2027-08-31,Verified,15,14
+2541015,Ishita Sharma,BBA,Cricket Tournament,Hackathon,University,Runner-up,2026-09-08,,Verified,15,9
+2541015,Ishita Sharma,BBA,Hackathon Finalist,Workshop,State,Participant,2026-10-02,,Rejected,15,17
+2541015,Ishita Sharma,BBA,Research Paper,Workshop,National,Participant,2025-12-21,,Verified,25,6
+2541016,Varun Nair,MCA,Data Analyst Internship,Course Completion,International,Participant,2026-08-12,2028-01-24,Verified,40,3
+2541016,Varun Nair,MCA,Cricket Tournament,Hackathon,College,Participant,2026-08-21,,Verified,5,18
+2541016,Varun Nair,MCA,Python Course,Course Completion,State,Participant,2025-11-04,2026-10-25,Verified,15,12
+2541016,Varun Nair,MCA,Coding Contest,Hackathon,State,Participant,2026-04-25,,Verified,15,19
+2541016,Varun Nair,MCA,Coding Contest,Sports,State,Runner-up,2026-10-13,,Verified,20,17
+2541016,Varun Nair,MCA,Cricket Tournament,Publication,International,Participant,2026-08-20,,Verified,40,13
+2541017,Pooja Reddy,MCA,Cricket Tournament,Sports,University,Winner,2026-11-06,,Verified,20,3
+2541017,Pooja Reddy,MCA,Data Analyst Internship,Hackathon,College,Runner-up,2026-11-10,,Rejected,10,12
+2541017,Pooja Reddy,MCA,AI Workshop,Internship,State,Participant,2026-10-13,,Verified,15,12
+2541017,Pooja Reddy,MCA,Coding Contest,Internship,College,Participant,2025-03-27,,Verified,5,2
+2541017,Pooja Reddy,MCA,Cricket Tournament,Hackathon,National,Winner,2026-05-13,,Verified,35,15
+2541017,Pooja Reddy,MCA,Data Analyst Internship,Competition,National,Participant,2026-09-10,,Verified,25,9
+2541017,Pooja Reddy,MCA,Coding Contest,Publication,National,Participant,2026-01-25,,Verified,25,18
+2541017,Pooja Reddy,MCA,Dance Competition,Sports,University,Participant,2026-10-24,,Verified,10,17
+2541017,Pooja Reddy,MCA,SQL Course,Publication,University,Participant,2026-10-04,,Verified,10,10
+2541017,Pooja Reddy,MCA,Coding Contest,Workshop,College,Participant,2026-03-16,,Verified,5,7
+2541017,Pooja Reddy,MCA,SQL Course,Competition,National,Runner-up,2025-01-05,,Verified,30,19
+2541017,Pooja Reddy,MCA,AI Workshop,Internship,State,Participant,2026-02-09,,Verified,15,13
+2541017,Pooja Reddy,MCA,Coding Contest,Internship,University,Participant,2026-07-23,,Verified,10,9
+2541018,Harsh Iyer,MBA,Dance Competition,Workshop,State,Participant,2026-08-17,,Verified,15,9
+2541018,Harsh Iyer,MBA,Python Course,Workshop,College,Participant,2025-08-08,,Verified,5,5
+2541018,Harsh Iyer,MBA,SQL Course,Cultural,University,Runner-up,2026-11-06,,Verified,15,9
+2541018,Harsh Iyer,MBA,Hackathon Finalist,Course Completion,University,Participant,2025-04-08,2027-04-21,Verified,10,4
+2541018,Harsh Iyer,MBA,Coding Contest,Cultural,International,Runner-up,2026-11-20,,Verified,45,13
+2541018,Harsh Iyer,MBA,Python Course,Course Completion,State,Participant,2026-09-15,,Verified,15,8
+2541018,Harsh Iyer,MBA,AI Workshop,Workshop,College,Participant,2026-05-01,,Verified,5,7
+2541019,Neha Menon,MCA,Dance Competition,Course Completion,National,Participant,2025-07-19,2026-12-03,Verified,25,15
+2541019,Neha Menon,MCA,Research Paper,Competition,International,Participant,2026-06-12,,Verified,40,10
+2541019,Neha Menon,MCA,Data Analyst Internship,Internship,State,Participant,2026-10-31,,Verified,15,20
+2541019,Neha Menon,MCA,Research Paper,Sports,National,Participant,2026-01-01,,Verified,25,14
+2541019,Neha Menon,MCA,SQL Course,Workshop,College,Participant,2026-09-07,,Verified,5,5
+2541019,Neha Menon,MCA,Python Course,Sports,International,Runner-up,2026-09-04,,Verified,45,2
+2541020,Joel Das,B.Com,Hackathon Finalist,Sports,College,Winner,2025-11-12,,Verified,15,7
+2541020,Joel Das,B.Com,SQL Course,Publication,State,Participant,2026-07-16,,Verified,15,4
+2541020,Joel Das,B.Com,Data Analyst Internship,Sports,National,Participant,2026-09-23,,Verified,25,17
+2541020,Joel Das,B.Com,Coding Contest,Course Completion,International,Participant,2025-10-25,,Verified,40,7
+2541020,Joel Das,B.Com,Python Course,Sports,International,Participant,2026-08-25,,Rejected,40,8
+2541021,Tanya Gupta,BBA,Python Course,Competition,National,Runner-up,2026-10-19,,Verified,30,8
+2541021,Tanya Gupta,BBA,AI Workshop,Course Completion,State,Participant,2026-08-19,,Rejected,15,16
+2541021,Tanya Gupta,BBA,Cricket Tournament,Sports,State,Winner,2026-08-10,,Verified,25,13
+2541021,Tanya Gupta,BBA,Coding Contest,Cultural,University,Participant,2026-06-21,,Verified,10,16
+2541021,Tanya Gupta,BBA,SQL Course,Cultural,International,Runner-up,2026-07-28,,Verified,45,5
+2541021,Tanya Gupta,BBA,Dance Competition,Competition,State,Runner-up,2026-10-11,,Verified,20,18
+2541021,Tanya Gupta,BBA,Dance Competition,Course Completion,College,Participant,2026-07-16,,Verified,5,12
+2541021,Tanya Gupta,BBA,SQL Course,Hackathon,College,Winner,2025-12-27,,Verified,15,2
+2541021,Tanya Gupta,BBA,SQL Course,Hackathon,University,Participant,2026-07-02,,Verified,10,9
+2541021,Tanya Gupta,BBA,Cricket Tournament,Publication,International,Participant,2026-09-06,,Verified,40,10
+2541021,Tanya Gupta,BBA,Dance Competition,Competition,State,Winner,2026-08-12,,Rejected,25,10
+2541022,Sanjay Thomas,MBA,AI Workshop,Publication,College,Participant,2026-10-11,,Verified,5,7
+2541022,Sanjay Thomas,MBA,Python Course,Publication,National,Participant,2026-09-20,,Verified,25,18
+2541022,Sanjay Thomas,MBA,AI Workshop,Publication,National,Participant,2025-06-11,,Rejected,25,5
+2541022,Sanjay Thomas,MBA,Data Analyst Internship,Sports,State,Runner-up,2026-05-22,,Rejected,20,6
+2541022,Sanjay Thomas,MBA,AI Workshop,Publication,College,Participant,2026-08-01,,Verified,5,3
+2541022,Sanjay Thomas,MBA,Python Course,Internship,State,Participant,2025-04-06,,Verified,15,2
+2541022,Sanjay Thomas,MBA,Dance Competition,Workshop,University,Participant,2026-01-15,,Verified,10,15
+2541022,Sanjay Thomas,MBA,Python Course,Publication,College,Participant,2026-07-24,,Verified,5,3
+2541023,Riya Kumar,MCA,Coding Contest,Publication,State,Participant,2026-07-16,,Verified,15,19
+2541023,Riya Kumar,MCA,Cricket Tournament,Sports,International,Runner-up,2026-07-13,,Verified,45,13
+2541023,Riya Kumar,MCA,SQL Course,Competition,University,Participant,2026-10-19,,Verified,10,5
+2541024,Mohan Joseph,BSc CS,Data Analyst Internship,Internship,National,Participant,2026-11-21,,Verified,25,19
+2541024,Mohan Joseph,BSc CS,Python Course,Cultural,International,Winner,2025-07-10,,Verified,50,7
+2541024,Mohan Joseph,BSc CS,SQL Course,Course Completion,College,Participant,2026-11-01,2027-09-26,Verified,5,7
+2541024,Mohan Joseph,BSc CS,Dance Competition,Course Completion,International,Participant,2025-01-23,2026-08-11,Verified,40,6
+2541024,Mohan Joseph,BSc CS,Python Course,Sports,International,Participant,2026-01-14,,Verified,40,11
+2541025,Aarav Rao,BSc CS,Cricket Tournament,Cultural,International,Participant,2026-04-17,,Verified,40,4
+2541025,Aarav Rao,BSc CS,Data Analyst Internship,Competition,University,Participant,2026-07-31,,Verified,10,5
+2541025,Aarav Rao,BSc CS,Dance Competition,Internship,College,Participant,2026-01-05,,Verified,5,15
+2541025,Aarav Rao,BSc CS,Python Course,Internship,State,Participant,2026-04-18,,Verified,15,18
+2541025,Aarav Rao,BSc CS,Coding Contest,Competition,State,Participant,2026-05-03,,Verified,15,12
+2541025,Aarav Rao,BSc CS,Cricket Tournament,Sports,State,Winner,2026-08-21,,Verified,25,17
+2541025,Aarav Rao,BSc CS,Research Paper,Course Completion,College,Participant,2026-07-30,,Rejected,5,11
+2541025,Aarav Rao,BSc CS,SQL Course,Hackathon,International,Participant,2026-11-18,,Verified,40,5
+2541025,Aarav Rao,BSc CS,Hackathon Finalist,Competition,State,Participant,2026-10-28,,Verified,15,3
+2541025,Aarav Rao,BSc CS,Coding Contest,Course Completion,College,Participant,2026-10-10,,Verified,5,20
+2541025,Aarav Rao,BSc CS,Python Course,Hackathon,National,Participant,2026-10-05,,Verified,25,5
+2541025,Aarav Rao,BSc CS,Coding Contest,Course Completion,College,Participant,2025-02-17,2026-02-02,Verified,5,17
+2541025,Aarav Rao,BSc CS,Data Analyst Internship,Internship,State,Participant,2026-04-24,,Verified,15,2
+2541025,Aarav Rao,BSc CS,Cricket Tournament,Internship,State,Participant,2026-08-24,,Verified,15,18
+2541025,Aarav Rao,BSc CS,Research Paper,Internship,International,Participant,2026-10-26,,Verified,40,2
+2541026,Ananya Patel,B.Com,Coding Contest,Hackathon,State,Runner-up,2026-10-08,,Verified,20,20
+2541026,Ananya Patel,B.Com,Coding Contest,Hackathon,International,Runner-up,2026-08-07,,Verified,45,18
+2541026,Ananya Patel,B.Com,Cricket Tournament,Internship,College,Participant,2026-08-29,,Verified,5,5
+2541026,Ananya Patel,B.Com,Hackathon Finalist,Competition,National,Winner,2026-03-08,,Verified,35,20
+2541026,Ananya Patel,B.Com,SQL Course,Internship,University,Participant,2026-04-03,,Verified,10,7
+2541026,Ananya Patel,B.Com,SQL Course,Hackathon,National,Winner,2026-08-11,,Verified,35,13
+2541026,Ananya Patel,B.Com,Coding Contest,Sports,National,Winner,2026-08-10,,Verified,35,13
+2541026,Ananya Patel,B.Com,Research Paper,Internship,State,Participant,2026-02-20,,Verified,15,7
+2541026,Ananya Patel,B.Com,Data Analyst Internship,Workshop,National,Participant,2026-07-13,,Rejected,25,3
+2541026,Ananya Patel,B.Com,Hackathon Finalist,Publication,International,Participant,2026-08-03,,Verified,40,12
+2541026,Ananya Patel,B.Com,Data Analyst Internship,Cultural,National,Winner,2026-02-03,,Verified,35,6
+2541026,Ananya Patel,B.Com,Hackathon Finalist,Cultural,University,Winner,2026-09-19,,Verified,20,6
+2541026,Ananya Patel,B.Com,Coding Contest,Workshop,State,Participant,2025-06-10,,Verified,15,7
+2541026,Ananya Patel,B.Com,Coding Contest,Publication,University,Participant,2026-10-05,,Verified,10,5
+2541026,Ananya Patel,B.Com,Coding Contest,Sports,University,Participant,2026-06-27,,Verified,10,10
+2541027,Rohan Singh,MCA,Research Paper,Hackathon,State,Participant,2026-04-03,,Verified,15,2
+2541027,Rohan Singh,MCA,Hackathon Finalist,Sports,University,Winner,2026-01-27,,Verified,20,2
+2541027,Rohan Singh,MCA,Research Paper,Internship,International,Participant,2025-10-08,,Verified,40,9
+2541027,Rohan Singh,MCA,Hackathon Finalist,Sports,University,Winner,2025-01-27,,Rejected,20,9
+2541027,Rohan Singh,MCA,Coding Contest,Hackathon,National,Runner-up,2026-07-16,,Verified,30,15
+2541027,Rohan Singh,MCA,Research Paper,Sports,University,Runner-up,2026-03-24,,Verified,15,2
+2541027,Rohan Singh,MCA,AI Workshop,Competition,State,Participant,2026-03-21,,Verified,15,3
+2541027,Rohan Singh,MCA,SQL Course,Workshop,University,Participant,2026-05-06,,Verified,10,13
+2541027,Rohan Singh,MCA,Data Analyst Internship,Cultural,International,Participant,2025-07-27,,Verified,40,2
+2541027,Rohan Singh,MCA,Research Paper,Publication,National,Participant,2025-08-16,,Verified,25,7
+2541027,Rohan Singh,MCA,Research Paper,Hackathon,International,Runner-up,2026-09-30,,Verified,45,10
+2541027,Rohan Singh,MCA,AI Workshop,Sports,College,Participant,2026-08-11,,Verified,5,13
+2541027,Rohan Singh,MCA,Research Paper,Hackathon,University,Runner-up,2025-10-12,,Verified,15,9
+2541028,Sneha Mathew,BBA,Coding Contest,Competition,University,Participant,2026-05-13,,Verified,10,19
+2541028,Sneha Mathew,BBA,Dance Competition,Competition,State,Winner,2025-09-29,,Verified,25,11
+2541028,Sneha Mathew,BBA,Research Paper,Competition,National,Runner-up,2026-09-19,,Verified,30,10
+2541028,Sneha Mathew,BBA,AI Workshop,Competition,National,Participant,2026-02-12,,Verified,25,9
+2541028,Sneha Mathew,BBA,Data Analyst Internship,Publication,National,Participant,2026-04-21,,Rejected,25,4
+2541028,Sneha Mathew,BBA,Hackathon Finalist,Competition,State,Runner-up,2026-11-05,,Rejected,20,12
+2541029,Karthik Pillai,B.Com,Hackathon Finalist,Course Completion,College,Participant,2026-11-08,,Verified,5,10
+2541029,Karthik Pillai,B.Com,Research Paper,Workshop,University,Participant,2026-06-02,,Verified,10,8
+2541029,Karthik Pillai,B.Com,Coding Contest,Competition,International,Winner,2026-08-26,,Verified,50,11
+2541029,Karthik Pillai,B.Com,SQL Course,Cultural,University,Winner,2026-08-06,,Verified,20,19
+2541029,Karthik Pillai,B.Com,Dance Competition,Internship,National,Participant,2026-10-22,,Verified,25,17
+2541029,Karthik Pillai,B.Com,Python Course,Course Completion,National,Participant,2026-09-14,2028-04-12,Verified,25,9
+2541029,Karthik Pillai,B.Com,Cricket Tournament,Competition,State,Runner-up,2025-04-29,,Verified,20,11
+2541029,Karthik Pillai,B.Com,Data Analyst Internship,Publication,National,Participant,2025-12-15,,Verified,25,7
+2541030,Meera Sharma,BSc CS,Cricket Tournament,Course Completion,College,Participant,2026-10-11,,Verified,5,5
+2541030,Meera Sharma,BSc CS,SQL Course,Competition,College,Participant,2025-09-27,,Verified,5,12
+2541030,Meera Sharma,BSc CS,AI Workshop,Publication,State,Participant,2026-03-02,,Verified,15,8
+2541030,Meera Sharma,BSc CS,AI Workshop,Sports,State,Runner-up,2026-02-16,,Verified,20,11
+2541030,Meera Sharma,BSc CS,Dance Competition,Publication,National,Participant,2026-06-09,,Verified,25,10
+2541030,Meera Sharma,BSc CS,Coding Contest,Publication,University,Participant,2025-07-10,,Verified,10,12
+2541030,Meera Sharma,BSc CS,Research Paper,Publication,State,Participant,2026-06-29,,Verified,15,3
+2541030,Meera Sharma,BSc CS,Python Course,Sports,International,Winner,2026-08-16,,Verified,50,5
+2541030,Meera Sharma,BSc CS,Research Paper,Course Completion,University,Participant,2026-01-19,,Verified,10,18
+2541030,Meera Sharma,BSc CS,Hackathon Finalist,Competition,International,Winner,2026-10-03,,Verified,50,16
+2541030,Meera Sharma,BSc CS,Hackathon Finalist,Hackathon,University,Participant,2026-10-06,,Verified,10,13
+2541030,Meera Sharma,BSc CS,Research Paper,Internship,International,Participant,2026-03-07,,Verified,40,7
+2541030,Meera Sharma,BSc CS,Python Course,Course Completion,State,Participant,2026-08-08,,Rejected,15,20
+2541031,Vikram Nair,BBA,Research Paper,Course Completion,College,Participant,2026-02-05,2027-11-15,Verified,5,16
+2541031,Vikram Nair,BBA,Coding Contest,Competition,National,Runner-up,2026-08-14,,Verified,30,17
+2541031,Vikram Nair,BBA,Coding Contest,Competition,College,Runner-up,2026-11-24,,Verified,10,4
+2541031,Vikram Nair,BBA,Cricket Tournament,Hackathon,University,Runner-up,2026-09-17,,Rejected,15,9
+2541031,Vikram Nair,BBA,AI Workshop,Competition,College,Runner-up,2024-12-15,,Verified,10,4
+2541031,Vikram Nair,BBA,Python Course,Cultural,National,Winner,2026-10-31,,Verified,35,2
+2541031,Vikram Nair,BBA,Hackathon Finalist,Course Completion,International,Participant,2026-08-19,,Verified,40,11
+2541031,Vikram Nair,BBA,Cricket Tournament,Cultural,International,Participant,2026-05-22,,Rejected,40,16
+2541031,Vikram Nair,BBA,Cricket Tournament,Competition,University,Participant,2025-12-31,,Verified,10,15
+2541031,Vikram Nair,BBA,Python Course,Sports,National,Runner-up,2025-12-20,,Verified,30,10
+2541031,Vikram Nair,BBA,Research Paper,Publication,International,Participant,2026-11-11,,Verified,40,11
+2541031,Vikram Nair,BBA,Cricket Tournament,Workshop,National,Participant,2025-12-11,,Verified,25,9
+2541032,Divya Reddy,BCA,Python Course,Course Completion,State,Participant,2026-07-12,,Verified,15,7
+2541032,Divya Reddy,BCA,Cricket Tournament,Internship,University,Participant,2026-06-29,,Verified,10,19
+2541032,Divya Reddy,BCA,Research Paper,Publication,International,Participant,2026-07-11,,Verified,40,17
+2541032,Divya Reddy,BCA,Cricket Tournament,Workshop,University,Participant,2026-01-20,,Verified,10,14
+2541032,Divya Reddy,BCA,Dance Competition,Workshop,State,Participant,2026-11-17,,Verified,15,16
+2541032,Divya Reddy,BCA,Dance Competition,Hackathon,International,Runner-up,2026-09-28,,Verified,45,20
+2541032,Divya Reddy,BCA,Coding Contest,Internship,International,Participant,2026-03-27,,Verified,40,20
+2541032,Divya Reddy,BCA,Data Analyst Internship,Workshop,University,Participant,2026-11-03,,Verified,10,11
+2541032,Divya Reddy,BCA,Cricket Tournament,Publication,National,Participant,2026-06-27,,Verified,25,3
+2541032,Divya Reddy,BCA,Hackathon Finalist,Publication,College,Participant,2026-01-07,,Verified,5,4
+2541032,Divya Reddy,BCA,Python Course,Publication,International,Participant,2026-08-30,,Verified,40,18
+2541032,Divya Reddy,BCA,Coding Contest,Hackathon,College,Participant,2025-07-17,,Rejected,5,20
+2541032,Divya Reddy,BCA,Hackathon Finalist,Internship,State,Participant,2026-10-08,,Verified,15,20
+2541032,Divya Reddy,BCA,SQL Course,Internship,College,Participant,2026-08-16,,Verified,5,14
+2541033,Arjun Iyer,MCA,SQL Course,Course Completion,International,Participant,2025-11-30,,Verified,40,17
+2541033,Arjun Iyer,MCA,Coding Contest,Sports,College,Winner,2026-09-22,,Verified,15,20
+2541033,Arjun Iyer,MCA,Coding Contest,Hackathon,International,Runner-up,2026-08-04,,Verified,45,13
+2541034,Priya Menon,BSc CS,Python Course,Competition,College,Runner-up,2026-10-27,,Pending,10,
+2541034,Priya Menon,BSc CS,Python Course,Course Completion,State,Participant,2024-11-30,2026-03-07,Verified,15,3
+2541034,Priya Menon,BSc CS,Cricket Tournament,Workshop,State,Participant,2025-03-31,,Verified,15,5
+2541034,Priya Menon,BSc CS,Cricket Tournament,Publication,State,Participant,2026-05-11,,Verified,15,13
+2541034,Priya Menon,BSc CS,Coding Contest,Sports,University,Runner-up,2026-10-21,,Verified,15,16
+2541034,Priya Menon,BSc CS,Hackathon Finalist,Course Completion,University,Participant,2026-11-07,,Rejected,10,13
+2541035,Nikhil Das,MSc Data Science,Data Analyst Internship,Hackathon,National,Participant,2026-09-11,,Verified,25,12
+2541035,Nikhil Das,MSc Data Science,Data Analyst Internship,Workshop,National,Participant,2026-06-19,,Verified,25,6
+2541035,Nikhil Das,MSc Data Science,Cricket Tournament,Workshop,College,Participant,2026-08-03,,Verified,5,6
+2541035,Nikhil Das,MSc Data Science,AI Workshop,Competition,State,Runner-up,2026-07-23,,Verified,20,2
+2541035,Nikhil Das,MSc Data Science,Data Analyst Internship,Internship,State,Participant,2026-09-21,,Verified,15,5
+2541035,Nikhil Das,MSc Data Science,Dance Competition,Cultural,National,Participant,2026-07-18,,Verified,25,8
+2541035,Nikhil Das,MSc Data Science,AI Workshop,Cultural,State,Participant,2026-08-15,,Verified,15,15
+2541035,Nikhil Das,MSc Data Science,Hackathon Finalist,Workshop,University,Participant,2026-08-19,,Verified,10,15
+2541035,Nikhil Das,MSc Data Science,Data Analyst Internship,Course Completion,State,Participant,2026-06-16,,Verified,15,16
+2541035,Nikhil Das,MSc Data Science,Research Paper,Competition,National,Participant,2026-02-06,,Verified,25,13
+2541036,Aditi Gupta,MCA,Dance Competition,Workshop,State,Participant,2026-05-25,,Verified,15,7
+2541036,Aditi Gupta,MCA,Cricket Tournament,Workshop,University,Participant,2026-06-26,,Verified,10,4
+2541036,Aditi Gupta,MCA,AI Workshop,Internship,University,Participant,2026-10-22,,Rejected,10,8
+2541036,Aditi Gupta,MCA,Python Course,Workshop,College,Participant,2026-06-02,,Verified,5,15
+2541036,Aditi Gupta,MCA,Python Course,Publication,State,Participant,2026-01-03,,Verified,15,4
+2541036,Aditi Gupta,MCA,Data Analyst Internship,Sports,National,Participant,2026-02-27,,Verified,25,7
+2541036,Aditi Gupta,MCA,Cricket Tournament,Course Completion,University,Participant,2025-11-11,2027-12-28,Rejected,10,2
+2541036,Aditi Gupta,MCA,Python Course,Hackathon,College,Runner-up,2026-03-21,,Verified,10,14
+2541036,Aditi Gupta,MCA,Python Course,Internship,College,Participant,2025-07-08,,Verified,5,18
+2541037,Rahul Thomas,B.Com,Hackathon Finalist,Competition,College,Participant,2026-09-30,,Rejected,5,7
+2541037,Rahul Thomas,B.Com,Coding Contest,Hackathon,State,Runner-up,2026-10-27,,Verified,20,5
+2541037,Rahul Thomas,B.Com,Dance Competition,Internship,College,Participant,2025-02-12,,Rejected,5,16
+2541037,Rahul Thomas,B.Com,Python Course,Workshop,National,Participant,2026-08-29,,Verified,25,7
+2541037,Rahul Thomas,B.Com,AI Workshop,Internship,College,Participant,2026-03-19,,Rejected,5,18
+2541037,Rahul Thomas,B.Com,Coding Contest,Hackathon,College,Participant,2026-09-17,,Verified,5,20
+2541037,Rahul Thomas,B.Com,Hackathon Finalist,Workshop,University,Participant,2025-04-19,,Verified,10,14
+2541037,Rahul Thomas,B.Com,Python Course,Course Completion,National,Participant,2025-09-22,2027-11-27,Rejected,25,18
+2541037,Rahul Thomas,B.Com,Data Analyst Internship,Publication,State,Participant,2026-07-26,,Verified,15,15
+2541037,Rahul Thomas,B.Com,Coding Contest,Sports,International,Participant,2026-03-07,,Verified,40,13
+2541037,Rahul Thomas,B.Com,Data Analyst Internship,Sports,College,Runner-up,2026-07-14,,Verified,10,4
+2541037,Rahul Thomas,B.Com,Research Paper,Sports,University,Winner,2026-11-05,,Verified,20,6
+2541037,Rahul Thomas,B.Com,AI Workshop,Sports,National,Winner,2026-11-16,,Verified,35,10
+2541037,Rahul Thomas,B.Com,Python Course,Course Completion,International,Participant,2026-09-23,2027-11-18,Verified,40,18
+2541037,Rahul Thomas,B.Com,Python Course,Internship,College,Participant,2026-06-02,,Verified,5,5
+2541038,Kavya Kumar,B.Com,Cricket Tournament,Internship,College,Participant,2026-01-28,,Verified,5,6
+2541038,Kavya Kumar,B.Com,AI Workshop,Hackathon,International,Participant,2026-05-02,,Rejected,40,11
+2541038,Kavya Kumar,B.Com,Coding Contest,Workshop,College,Participant,2025-05-16,,Verified,5,16
+2541038,Kavya Kumar,B.Com,AI Workshop,Sports,University,Winner,2025-11-16,,Verified,20,19
+2541038,Kavya Kumar,B.Com,Coding Contest,Cultural,National,Runner-up,2026-09-25,,Verified,30,9
+2541038,Kavya Kumar,B.Com,Data Analyst Internship,Sports,International,Runner-up,2026-08-28,,Verified,45,9
+2541038,Kavya Kumar,B.Com,Python Course,Publication,National,Participant,2026-07-04,,Verified,25,11
+2541038,Kavya Kumar,B.Com,Dance Competition,Course Completion,University,Participant,2026-09-19,2027-08-16,Rejected,10,13
+2541038,Kavya Kumar,B.Com,Hackathon Finalist,Sports,National,Runner-up,2026-08-07,,Verified,30,9
+2541038,Kavya Kumar,B.Com,Dance Competition,Sports,State,Winner,2026-09-16,,Verified,25,10
+2541038,Kavya Kumar,B.Com,SQL Course,Hackathon,National,Runner-up,2024-12-01,,Verified,30,15
+2541039,Siddharth Joseph,MCA,SQL Course,Hackathon,National,Runner-up,2026-06-26,,Verified,30,10
+2541039,Siddharth Joseph,MCA,Data Analyst Internship,Sports,National,Winner,2026-07-02,,Verified,35,11
+2541039,Siddharth Joseph,MCA,Cricket Tournament,Sports,International,Winner,2025-10-29,,Verified,50,2
+2541039,Siddharth Joseph,MCA,Research Paper,Sports,National,Runner-up,2026-07-12,,Verified,30,6
+2541039,Siddharth Joseph,MCA,Data Analyst Internship,Sports,International,Participant,2026-09-03,,Verified,40,9
+2541039,Siddharth Joseph,MCA,Cricket Tournament,Workshop,National,Participant,2026-11-20,,Verified,25,10
+2541039,Siddharth Joseph,MCA,Dance Competition,Internship,International,Participant,2026-02-24,,Rejected,40,15
+2541039,Siddharth Joseph,MCA,Cricket Tournament,Sports,National,Runner-up,2026-11-06,,Rejected,30,13
+2541039,Siddharth Joseph,MCA,Dance Competition,Course Completion,College,Participant,2026-04-06,2027-08-24,Verified,5,15
+2541040,Ishita Rao,B.Com,Data Analyst Internship,Workshop,National,Participant,2026-05-05,,Verified,25,20
+2541040,Ishita Rao,B.Com,Dance Competition,Hackathon,University,Runner-up,2026-05-23,,Verified,15,11
+2541040,Ishita Rao,B.Com,Research Paper,Competition,College,Winner,2025-12-08,,Verified,15,18
+2541040,Ishita Rao,B.Com,Research Paper,Competition,International,Runner-up,2026-04-28,,Verified,45,8
+2541040,Ishita Rao,B.Com,Python Course,Competition,College,Winner,2025-03-19,,Verified,15,13
+2541041,Varun Patel,BSc CS,Research Paper,Course Completion,College,Participant,2025-11-28,,Verified,5,2
+2541041,Varun Patel,BSc CS,Cricket Tournament,Hackathon,International,Participant,2026-10-27,,Verified,40,7
+2541041,Varun Patel,BSc CS,Research Paper,Internship,International,Participant,2026-07-02,,Rejected,40,8
+2541041,Varun Patel,BSc CS,SQL Course,Hackathon,University,Participant,2025-06-23,,Verified,10,2
+2541041,Varun Patel,BSc CS,Python Course,Hackathon,University,Winner,2026-04-01,,Rejected,20,15
+2541041,Varun Patel,BSc CS,AI Workshop,Course Completion,International,Participant,2026-09-14,2027-07-27,Verified,40,13
+2541041,Varun Patel,BSc CS,Python Course,Hackathon,International,Participant,2026-08-20,,Verified,40,14
+2541041,Varun Patel,BSc CS,Coding Contest,Course Completion,University,Participant,2026-02-01,2027-03-30,Verified,10,16
+2541041,Varun Patel,BSc CS,Python Course,Workshop,College,Participant,2026-06-29,,Verified,5,12
+2541042,Pooja Singh,MSc Data Science,Coding Contest,Internship,National,Participant,2026-03-13,,Verified,25,4
+2541042,Pooja Singh,MSc Data Science,Python Course,Sports,International,Participant,2026-06-21,,Verified,40,17
+2541042,Pooja Singh,MSc Data Science,Hackathon Finalist,Workshop,College,Participant,2026-10-14,,Verified,5,14
+2541042,Pooja Singh,MSc Data Science,Research Paper,Course Completion,State,Participant,2026-02-12,2028-02-28,Verified,15,5
+2541042,Pooja Singh,MSc Data Science,Data Analyst Internship,Publication,National,Participant,2026-09-20,,Verified,25,15
+2541042,Pooja Singh,MSc Data Science,Coding Contest,Workshop,National,Participant,2026-07-30,,Verified,25,13
+2541042,Pooja Singh,MSc Data Science,Coding Contest,Sports,College,Runner-up,2026-11-01,,Verified,10,6
+2541042,Pooja Singh,MSc Data Science,Cricket Tournament,Competition,College,Participant,2026-02-21,,Verified,5,19
+2541042,Pooja Singh,MSc Data Science,Research Paper,Cultural,University,Participant,2026-05-30,,Verified,10,14
+2541042,Pooja Singh,MSc Data Science,Cricket Tournament,Workshop,State,Participant,2026-03-13,,Verified,15,9
+2541043,Harsh Mathew,BSc CS,Coding Contest,Internship,International,Participant,2026-01-30,,Verified,40,19
+2541043,Harsh Mathew,BSc CS,SQL Course,Sports,International,Winner,2026-10-25,,Verified,50,18
+2541043,Harsh Mathew,BSc CS,AI Workshop,Internship,National,Participant,2026-06-11,,Rejected,25,6
+2541043,Harsh Mathew,BSc CS,SQL Course,Course Completion,National,Participant,2026-08-30,2028-05-30,Verified,25,9
+2541043,Harsh Mathew,BSc CS,AI Workshop,Hackathon,International,Runner-up,2026-01-26,,Verified,45,4
+2541044,Neha Pillai,MCA,Research Paper,Internship,University,Participant,2025-10-14,,Verified,10,13
+2541044,Neha Pillai,MCA,Research Paper,Cultural,University,Runner-up,2026-11-19,,Verified,15,13
+2541044,Neha Pillai,MCA,AI Workshop,Course Completion,National,Participant,2026-08-16,2027-08-09,Verified,25,5
+2541044,Neha Pillai,MCA,Research Paper,Workshop,College,Participant,2026-11-06,,Rejected,5,7
+2541044,Neha Pillai,MCA,AI Workshop,Workshop,State,Participant,2026-08-21,,Verified,15,19
+2541044,Neha Pillai,MCA,Research Paper,Competition,International,Participant,2025-07-05,,Verified,40,10
+2541045,Joel Sharma,BSc CS,Python Course,Publication,College,Participant,2026-06-12,,Verified,5,3
+2541045,Joel Sharma,BSc CS,SQL Course,Workshop,College,Participant,2026-09-06,,Verified,5,13
+2541045,Joel Sharma,BSc CS,SQL Course,Sports,National,Winner,2026-04-14,,Verified,35,18
+2541045,Joel Sharma,BSc CS,Dance Competition,Publication,National,Participant,2026-06-05,,Verified,25,16
+2541045,Joel Sharma,BSc CS,Python Course,Course Completion,University,Participant,2025-12-17,2027-01-17,Verified,10,6
+2541045,Joel Sharma,BSc CS,AI Workshop,Internship,University,Participant,2026-06-12,,Verified,10,19
+2541045,Joel Sharma,BSc CS,SQL Course,Workshop,College,Participant,2026-08-27,,Verified,5,15
+2541045,Joel Sharma,BSc CS,Coding Contest,Workshop,State,Participant,2026-10-23,,Verified,15,17
+2541045,Joel Sharma,BSc CS,Data Analyst Internship,Workshop,College,Participant,2024-12-18,,Verified,5,6
+2541045,Joel Sharma,BSc CS,Coding Contest,Internship,University,Participant,2026-07-04,,Rejected,10,20
+2541045,Joel Sharma,BSc CS,Cricket Tournament,Publication,College,Participant,2025-09-18,,Verified,5,6
+2541045,Joel Sharma,BSc CS,Cricket Tournament,Sports,University,Participant,2026-02-03,,Verified,10,13
+2541045,Joel Sharma,BSc CS,SQL Course,Workshop,College,Participant,2026-09-16,,Verified,5,8
+2541046,Tanya Nair,BSc CS,Data Analyst Internship,Cultural,College,Participant,2026-04-13,,Verified,5,20
+2541046,Tanya Nair,BSc CS,Cricket Tournament,Internship,University,Participant,2026-09-14,,Verified,10,2
+2541046,Tanya Nair,BSc CS,SQL Course,Cultural,College,Winner,2025-12-22,,Rejected,15,10
+2541046,Tanya Nair,BSc CS,Data Analyst Internship,Cultural,National,Runner-up,2026-07-10,,Verified,30,2
+2541046,Tanya Nair,BSc CS,SQL Course,Hackathon,State,Winner,2025-01-27,,Verified,25,9
+2541046,Tanya Nair,BSc CS,Hackathon Finalist,Competition,College,Participant,2026-09-13,,Verified,5,13
+2541046,Tanya Nair,BSc CS,Hackathon Finalist,Competition,College,Winner,2026-01-15,,Verified,15,14
+2541047,Sanjay Reddy,BSc CS,AI Workshop,Publication,University,Participant,2026-09-18,,Verified,10,13
+2541047,Sanjay Reddy,BSc CS,Python Course,Workshop,College,Participant,2026-10-30,,Rejected,5,14
+2541047,Sanjay Reddy,BSc CS,SQL Course,Workshop,National,Participant,2026-03-16,,Verified,25,11
+2541047,Sanjay Reddy,BSc CS,Python Course,Competition,University,Participant,2026-08-05,,Verified,10,4
+2541047,Sanjay Reddy,BSc CS,Dance Competition,Cultural,National,Participant,2026-08-23,,Verified,25,3
+2541047,Sanjay Reddy,BSc CS,Research Paper,Sports,University,Runner-up,2026-06-10,,Verified,15,18
+2541047,Sanjay Reddy,BSc CS,Research Paper,Publication,College,Participant,2026-11-22,,Verified,5,7
+2541047,Sanjay Reddy,BSc CS,Coding Contest,Internship,College,Participant,2026-02-11,,Verified,5,20
+2541048,Riya Iyer,BBA,Research Paper,Publication,International,Participant,2026-04-21,,Verified,40,6
+2541048,Riya Iyer,BBA,Research Paper,Hackathon,College,Winner,2025-12-22,,Rejected,15,11
+2541048,Riya Iyer,BBA,Data Analyst Internship,Publication,National,Participant,2025-02-02,,Verified,25,11
+2541048,Riya Iyer,BBA,Data Analyst Internship,Course Completion,University,Participant,2026-06-06,2028-01-23,Verified,10,4
+2541049,Mohan Menon,B.Com,AI Workshop,Sports,State,Winner,2026-07-05,,Verified,25,14
+2541049,Mohan Menon,B.Com,AI Workshop,Hackathon,University,Participant,2026-07-09,,Verified,10,9
+2541049,Mohan Menon,B.Com,Dance Competition,Hackathon,University,Winner,2026-03-14,,Verified,20,9
+2541049,Mohan Menon,B.Com,SQL Course,Cultural,University,Winner,2024-12-13,,Verified,20,18
+2541049,Mohan Menon,B.Com,SQL Course,Sports,College,Runner-up,2026-07-21,,Verified,10,18
+2541049,Mohan Menon,B.Com,Cricket Tournament,Hackathon,National,Winner,2026-02-21,,Verified,35,8
+2541049,Mohan Menon,B.Com,Python Course,Hackathon,University,Runner-up,2026-09-29,,Verified,15,9
+2541049,Mohan Menon,B.Com,Cricket Tournament,Publication,College,Participant,2026-05-31,,Rejected,5,8
+2541049,Mohan Menon,B.Com,Coding Contest,Internship,College,Participant,2026-07-11,,Verified,5,4
+2541049,Mohan Menon,B.Com,SQL Course,Hackathon,State,Participant,2026-06-05,,Verified,15,10
+2541049,Mohan Menon,B.Com,Python Course,Workshop,State,Participant,2025-06-07,,Verified,15,17
+2541049,Mohan Menon,B.Com,Python Course,Publication,College,Participant,2026-02-18,,Verified,5,5
+2541050,Aarav Das,BSc CS,Cricket Tournament,Internship,State,Participant,2026-06-02,,Verified,15,2
+2541050,Aarav Das,BSc CS,Hackathon Finalist,Hackathon,College,Runner-up,2026-11-08,,Verified,10,7
+2541050,Aarav Das,BSc CS,AI Workshop,Internship,National,Participant,2026-06-29,,Verified,25,19
+2541050,Aarav Das,BSc CS,Cricket Tournament,Cultural,College,Participant,2026-09-10,,Verified,5,18
+2541050,Aarav Das,BSc CS,Hackathon Finalist,Course Completion,College,Participant,2026-10-11,,Rejected,5,14
+2541050,Aarav Das,BSc CS,Data Analyst Internship,Cultural,National,Participant,2025-06-15,,Verified,25,13
+2541051,Ananya Gupta,B.Com,Hackathon Finalist,Internship,University,Participant,2025-02-25,,Verified,10,8
+2541051,Ananya Gupta,B.Com,Data Analyst Internship,Publication,National,Participant,2026-02-04,,Verified,25,14
+2541051,Ananya Gupta,B.Com,Coding Contest,Publication,College,Participant,2026-02-03,,Verified,5,12
+2541051,Ananya Gupta,B.Com,Hackathon Finalist,Course Completion,University,Participant,2026-01-19,,Verified,10,6
+2541051,Ananya Gupta,B.Com,AI Workshop,Internship,National,Participant,2026-10-25,,Pending,25,
+2541051,Ananya Gupta,B.Com,Python Course,Publication,International,Participant,2025-06-04,,Rejected,40,6
+2541052,Rohan Thomas,B.Com,AI Workshop,Hackathon,University,Runner-up,2025-04-20,,Verified,15,13
+2541052,Rohan Thomas,B.Com,Data Analyst Internship,Workshop,University,Participant,2026-09-14,,Verified,10,12
+2541052,Rohan Thomas,B.Com,Data Analyst Internship,Workshop,State,Participant,2025-10-07,,Verified,15,3
+2541052,Rohan Thomas,B.Com,Data Analyst Internship,Publication,National,Participant,2025-11-15,,Verified,25,9
+2541052,Rohan Thomas,B.Com,Cricket Tournament,Competition,University,Participant,2026-06-08,,Verified,10,14
+2541052,Rohan Thomas,B.Com,AI Workshop,Sports,International,Runner-up,2026-06-29,,Verified,45,6
+2541052,Rohan Thomas,B.Com,SQL Course,Internship,State,Participant,2025-04-20,,Verified,15,12
+2541052,Rohan Thomas,B.Com,Data Analyst Internship,Workshop,International,Participant,2026-06-30,,Verified,40,11
+2541052,Rohan Thomas,B.Com,Hackathon Finalist,Cultural,State,Winner,2026-10-23,,Verified,25,12
+2541052,Rohan Thomas,B.Com,Coding Contest,Internship,State,Participant,2026-11-03,,Verified,15,10
+2541052,Rohan Thomas,B.Com,AI Workshop,Course Completion,University,Participant,2026-08-16,,Verified,10,8
+2541052,Rohan Thomas,B.Com,SQL Course,Hackathon,University,Participant,2026-09-29,,Verified,10,3
+2541052,Rohan Thomas,B.Com,AI Workshop,Hackathon,International,Runner-up,2026-07-10,,Verified,45,8
+2541052,Rohan Thomas,B.Com,Python Course,Course Completion,State,Participant,2026-10-03,,Verified,15,12
+2541052,Rohan Thomas,B.Com,Research Paper,Cultural,National,Winner,2025-12-16,,Verified,35,3
+2541053,Sneha Kumar,MSc Data Science,Cricket Tournament,Hackathon,International,Runner-up,2026-01-24,,Verified,45,10
+2541053,Sneha Kumar,MSc Data Science,Data Analyst Internship,Course Completion,College,Participant,2026-02-11,2027-12-06,Verified,5,3
+2541053,Sneha Kumar,MSc Data Science,SQL Course,Competition,College,Participant,2026-10-04,,Verified,5,18
+2541054,Karthik Joseph,BCA,Data Analyst Internship,Sports,State,Winner,2025-04-03,,Verified,25,6
+2541054,Karthik Joseph,BCA,AI Workshop,Workshop,International,Participant,2025-11-27,,Verified,40,3
+2541054,Karthik Joseph,BCA,Hackathon Finalist,Cultural,International,Runner-up,2026-03-04,,Verified,45,10
+2541054,Karthik Joseph,BCA,Hackathon Finalist,Internship,College,Participant,2025-07-27,,Verified,5,13
+2541054,Karthik Joseph,BCA,SQL Course,Workshop,National,Participant,2026-11-19,,Rejected,25,6
+2541054,Karthik Joseph,BCA,Data Analyst Internship,Course Completion,International,Participant,2026-05-01,2028-01-01,Verified,40,7
+2541054,Karthik Joseph,BCA,Coding Contest,Competition,University,Winner,2026-07-14,,Verified,20,13
+2541054,Karthik Joseph,BCA,Coding Contest,Cultural,National,Participant,2025-12-09,,Verified,25,16
+2541055,Meera Rao,BCA,Data Analyst Internship,Course Completion,College,Participant,2026-11-11,,Verified,5,14
+2541055,Meera Rao,BCA,Coding Contest,Course Completion,University,Participant,2025-11-06,,Verified,10,14
+2541055,Meera Rao,BCA,Data Analyst Internship,Course Completion,State,Participant,2026-09-20,2027-10-29,Verified,15,9
+2541055,Meera Rao,BCA,Cricket Tournament,Sports,State,Runner-up,2026-08-08,,Rejected,20,7
+2541055,Meera Rao,BCA,Python Course,Internship,University,Participant,2026-07-05,,Verified,10,12
+2541055,Meera Rao,BCA,Coding Contest,Cultural,University,Participant,2025-12-12,,Rejected,10,16
+2541055,Meera Rao,BCA,Hackathon Finalist,Course Completion,University,Participant,2025-11-22,2027-12-04,Verified,10,16
+2541055,Meera Rao,BCA,AI Workshop,Internship,College,Participant,2026-10-19,,Verified,5,6
+2541055,Meera Rao,BCA,Research Paper,Competition,International,Winner,2026-10-08,,Verified,50,16
+2541055,Meera Rao,BCA,Python Course,Hackathon,National,Runner-up,2025-01-14,,Verified,30,12
+2541055,Meera Rao,BCA,Hackathon Finalist,Workshop,University,Participant,2024-12-20,,Verified,10,3
+2541055,Meera Rao,BCA,Python Course,Workshop,International,Participant,2025-12-04,,Verified,40,2
+2541055,Meera Rao,BCA,Dance Competition,Publication,College,Participant,2026-10-27,,Verified,5,6
+2541055,Meera Rao,BCA,Dance Competition,Sports,College,Participant,2026-06-04,,Verified,5,6
+2541055,Meera Rao,BCA,Coding Contest,Hackathon,International,Runner-up,2026-10-18,,Verified,45,8
+2541056,Vikram Patel,BSc CS,Python Course,Internship,University,Participant,2026-09-20,,Verified,10,4
+2541056,Vikram Patel,BSc CS,AI Workshop,Workshop,International,Participant,2026-08-14,,Verified,40,13
+2541056,Vikram Patel,BSc CS,Research Paper,Course Completion,State,Participant,2026-10-15,2028-01-27,Verified,15,19
+2541056,Vikram Patel,BSc CS,Research Paper,Internship,National,Participant,2026-06-17,,Verified,25,15
+2541057,Divya Singh,MBA,AI Workshop,Sports,National,Participant,2026-11-21,,Verified,25,18
+2541057,Divya Singh,MBA,Python Course,Sports,University,Participant,2026-07-31,,Verified,10,3
+2541057,Divya Singh,MBA,Data Analyst Internship,Sports,International,Runner-up,2025-02-03,,Verified,45,19
+2541057,Divya Singh,MBA,Data Analyst Internship,Cultural,International,Participant,2025-12-30,,Verified,40,18
+2541057,Divya Singh,MBA,Research Paper,Sports,University,Winner,2025-11-04,,Verified,20,4
+2541057,Divya Singh,MBA,Dance Competition,Internship,International,Participant,2025-01-02,,Verified,40,4
+2541057,Divya Singh,MBA,Dance Competition,Workshop,International,Participant,2026-07-15,,Verified,40,13
+2541057,Divya Singh,MBA,Data Analyst Internship,Cultural,International,Participant,2026-11-10,,Pending,40,
+2541057,Divya Singh,MBA,Hackathon Finalist,Workshop,International,Participant,2026-08-25,,Verified,40,7
+2541058,Arjun Mathew,MSc Data Science,Data Analyst Internship,Cultural,University,Winner,2026-10-13,,Verified,20,14
+2541058,Arjun Mathew,MSc Data Science,SQL Course,Sports,College,Runner-up,2026-05-31,,Verified,10,14
+2541058,Arjun Mathew,MSc Data Science,Cricket Tournament,Publication,State,Participant,2025-06-09,,Verified,15,11
+2541058,Arjun Mathew,MSc Data Science,Cricket Tournament,Hackathon,State,Runner-up,2026-04-12,,Verified,20,16
+2541058,Arjun Mathew,MSc Data Science,Cricket Tournament,Competition,International,Participant,2026-06-05,,Verified,40,13
+2541058,Arjun Mathew,MSc Data Science,AI Workshop,Workshop,International,Participant,2026-03-04,,Verified,40,14
+2541058,Arjun Mathew,MSc Data Science,AI Workshop,Course Completion,International,Participant,2026-11-26,2027-12-22,Rejected,40,10
+2541058,Arjun Mathew,MSc Data Science,SQL Course,Internship,State,Participant,2026-07-26,,Verified,15,16
+2541058,Arjun Mathew,MSc Data Science,Python Course,Cultural,College,Participant,2026-08-10,,Verified,5,13
+2541058,Arjun Mathew,MSc Data Science,AI Workshop,Cultural,National,Runner-up,2026-09-12,,Verified,30,15
+2541058,Arjun Mathew,MSc Data Science,Data Analyst Internship,Publication,University,Participant,2026-02-03,,Verified,10,8
+2541058,Arjun Mathew,MSc Data Science,Research Paper,Hackathon,University,Runner-up,2026-11-06,,Verified,15,14
+2541058,Arjun Mathew,MSc Data Science,Cricket Tournament,Sports,National,Winner,2026-10-30,,Rejected,35,20
+2541059,Priya Pillai,BBA,Cricket Tournament,Sports,National,Runner-up,2026-11-10,,Verified,30,14
+2541059,Priya Pillai,BBA,Dance Competition,Competition,International,Participant,2026-04-03,,Verified,40,14
+2541059,Priya Pillai,BBA,SQL Course,Course Completion,State,Participant,2025-12-23,2027-02-09,Verified,15,16
+2541059,Priya Pillai,BBA,Coding Contest,Course Completion,College,Participant,2026-10-12,2028-10-02,Verified,5,20
+2541059,Priya Pillai,BBA,Hackathon Finalist,Publication,National,Participant,2026-07-09,,Verified,25,20
+2541059,Priya Pillai,BBA,Dance Competition,Sports,College,Winner,2026-09-05,,Verified,15,8
+2541059,Priya Pillai,BBA,AI Workshop,Course Completion,University,Participant,2026-02-18,2027-06-29,Verified,10,10
+2541059,Priya Pillai,BBA,AI Workshop,Internship,International,Participant,2026-03-10,,Verified,40,3
+2541059,Priya Pillai,BBA,AI Workshop,Internship,University,Participant,2026-04-17,,Verified,10,10
+2541059,Priya Pillai,BBA,Cricket Tournament,Workshop,University,Participant,2026-10-04,,Verified,10,13
+2541059,Priya Pillai,BBA,Dance Competition,Cultural,International,Participant,2026-06-05,,Verified,40,16
+2541059,Priya Pillai,BBA,Data Analyst Internship,Course Completion,State,Participant,2026-07-13,,Verified,15,15
+2541059,Priya Pillai,BBA,Cricket Tournament,Course Completion,State,Participant,2026-08-06,,Verified,15,8
+2541059,Priya Pillai,BBA,SQL Course,Sports,National,Participant,2026-11-12,,Verified,25,15
